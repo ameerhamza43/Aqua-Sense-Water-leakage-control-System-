@@ -7,7 +7,7 @@ Built and simulated entirely in [Wokwi](https://wokwi.com).
 🔗 **Live Simulation:** [https://wokwi.com/projects/479522170151266305](https://wokwi.com/projects/479522170151266305)
 
 ---
-
+<img width="470" height="257" alt="image" src="https://github.com/user-attachments/assets/e8ddd33a-8aca-4ace-944b-67b42b9fa16d" />
 ## ✨ Features
 
 - 🌊 Monitors **3 analog zones** (flow/pressure sensors via ADC)
