@@ -37,7 +37,7 @@ Built and simulated entirely in [Wokwi](https://wokwi.com).
 | OLED SDA               | `oled1`     | GPIO 21   | I2C data       |
 | OLED SCL               | `oled1`     | GPIO 22   | I2C clock      |
 | OLED Address           | ----------- | `0x3C`    | SSD1306        |
-|------------------------|-------------|-----------|----------------|
+
 ---
 
 ## ⚡ How It Works
