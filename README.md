@@ -21,7 +21,7 @@ Built and simulated entirely in [Wokwi](https://wokwi.com).
 ---
 
 ## 🧰 Hardware / Components
-|------------------------|-------------|-----------|----------------|
+
 |        Component       | Wokwi Part  | ESP32 Pin |   Function     |
 |------------------------|-------------|-----------|----------------|
 | Analog Sensor — Zone 1 | `pot1`      | GPIO 34   | ADC input      |
